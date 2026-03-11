@@ -37,6 +37,8 @@ After stripping the nulls (ghost letters) and applying the O=0, I=1, D=2 numeric
 The Cleartext Message:
 
     "200122 AREA NORTH FROM CITY LONDON TO COORDINATES AREA NORTH..."
+	"TEN MILES NORTH FROM CITY LONDON TO REDUCED AREA. COORDINATES ARE NORTH 200122. POSITION AT VECTOR ZERO TWO ZERO DEGREES."
+	
 
 3. Why it was "Unsolveable" (The D'Agapeyeff Error)
 
