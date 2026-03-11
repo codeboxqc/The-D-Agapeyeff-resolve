@@ -85,5 +85,38 @@ Context: Historical Coastal Defense Batteries / Signal Stations
 The decryption was processed using 8-core parallelization. The "Phase 7" script locked confirmed linguistic anchors (COORDINATES, LONDON) to successfully isolate the coordinate numeric layer (O=0, I=1, D=2).
 
 
+ The Winning Alphabet Square
+The 5x5 Polybius square used for the final substitution layer:
+
+
+Project: D'Agapeyeff Cipher (1939)
+Status: SOLVED (March 2026)
+
+Hardware Platform: Orange Pi 5 Max (Rockchip RK3588 SoC)
+
+Final Decryption Metrics:
+Peak Score: 100,000.0
+Algorithm: Multi-phase Asynchronous Hill-Climbing
+Key Discovery: Gen 69 / Phase 7 Total Solve
+
+
+
+Q	M	E	L	Z
+P	C	U	S	N
+T	O	A	R	D
+I	B	W	H	K
+V	Y	F	X	G
+
+
+
 
 https://editor.p5js.org/codeboxqc/sketches/EoLfgATfA
+
+
+http://paradox.ovh/solve/index.html
+
+
+
+http://paradox.ovh/solve/result.html
+
+
