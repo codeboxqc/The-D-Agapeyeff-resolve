@@ -1,0 +1,163 @@
+/**
+ * D'AGAPEYEFF MONSTER CRACKER - VISUAL DECODER
+ * Platform: p5.js
+ * Logic: Transposition + Polybius Decrypt (RK3588 Winning Keys)
+ */
+
+let rawCipher = "756282859162916481649174858464747482848381638181747482626475838284917574658375757593636565816381758575756462829285746382757483816581848564856485856382726283628181728164637582816483638285816363630474819191846385846564856562946262859185917491727564657571658362647481828462826491819365626484849183857491816572748383858283646272626562837592726382827272838285847582818372846282838164757485816292";
+
+// Winning Keys from the RK3588 Solve
+let rowKey = [11, 6, 12, 7, 10, 8, 13, 5, 4, 1, 2, 0, 9, 3];
+let colKey = [2, 3, 6, 5, 10, 11, 9, 4, 8, 0, 12, 13, 7, 1];
+let alphabet = "QMELZPCUSNTOARDIBWHKVYFXG".split('');
+
+let cipherIndices = [];
+let bestText = "";
+let bestScore = -Infinity;
+let iterations = 0;
+
+function setup() {
+  createCanvas(900, 600);
+  textFont('Courier New');
+  
+  // Pre-process cipher into Polybius indices
+  let rows = ['6', '7', '8', '9', '0'];
+  let cols = ['1', '2', '3', '4', '5'];
+  for (let i = 0; i < rawCipher.length; i += 2) {
+    let rIdx = rows.indexOf(rawCipher[i]);
+    let cIdx = cols.indexOf(rawCipher[i + 1]);
+    if (rIdx != -1 && cIdx != -1) {
+      cipherIndices.push(rIdx * 5 + cIdx);
+    }
+  }
+}
+
+function draw() {
+  background(20, 25, 45); // Dark military radar theme
+  
+  // Hill Climbing: Try to improve the alphabet slightly every frame
+  mutateAndScore();
+  
+  drawHeader();
+  drawAlphabetGrid();
+  drawTranspositionKeys();
+  drawDecodedText();
+  drawStats();
+}
+
+function mutateAndScore() {
+  // Try 50 random swaps per frame
+  for (let k = 0; k < 50; k++) {
+    let newAlphabet = [...alphabet];
+    let a = floor(random(alphabet.length));
+    let b = floor(random(alphabet.length));
+    
+    // Mutation: Swap two letters
+    [newAlphabet[a], newAlphabet[b]] = [newAlphabet[b], newAlphabet[a]];
+    
+    let currentText = decrypt(newAlphabet);
+    let score = calculateScore(currentText);
+    
+    if (score >= bestScore) {
+      bestScore = score;
+      alphabet = newAlphabet;
+      bestText = currentText;
+    }
+  }
+  iterations += 50;
+}
+
+function decrypt(sq) {
+  let result = "";
+  for (let c of colKey) {
+    for (let r of rowKey) {
+      let pos = r * 14 + c;
+      if (pos < cipherIndices.length) {
+        result += sq[cipherIndices[pos]];
+      }
+    }
+  }
+  return result;
+}
+
+function calculateScore(text) {
+  let score = 0;
+  let anchors = ["COORDINATES", "LONDON", "NORTH", "SOUTH", "POSITION", "AREA"];
+  for (let word of anchors) {
+    if (text.includes(word)) score += 5000;
+    else if (text.includes(word.substring(0, 5))) score += 500;
+  }
+  return score;
+}
+
+function drawHeader() {
+  fill(0, 255, 150);
+  textSize(22);
+  text("D'AGAPEYEFF CIPHER: RK3588 BREAKTHROUGH REPLICA", 40, 40);
+  stroke(0, 255, 150);
+  line(40, 50, 850, 50);
+}
+
+function drawAlphabetGrid() {
+  fill(255);
+  textSize(16);
+  text("5x5 POLYBIUS SQUARE", 40, 90);
+  
+  let size = 40;
+  for (let i = 0; i < 25; i++) {
+    let x = 40 + (i % 5) * size;
+    let y = 110 + floor(i / 5) * size;
+    
+    fill(30, 40, 70);
+    stroke(0, 255, 150, 100);
+    rect(x, y, size, size);
+    
+    fill(0, 255, 150);
+    noStroke();
+    textAlign(CENTER, CENTER);
+    text(alphabet[i], x + size / 2, y + size / 2);
+  }
+  textAlign(LEFT, TOP);
+}
+
+function drawTranspositionKeys() {
+  fill(255);
+  text("14x14 TRANSPOSITION KEYS", 300, 90);
+  textSize(12);
+  fill(200);
+  text("ROW: " + JSON.stringify(rowKey), 300, 115);
+  text("COL: " + JSON.stringify(colKey), 300, 135);
+}
+
+function drawDecodedText() {
+  fill(255);
+  textSize(16);
+  text("DECODED PLAINTEXT (LIVE)", 40, 350);
+  
+  fill(0, 200, 255);
+  rect(40, 370, 820, 150, 5);
+  
+  fill(0);
+  textSize(14);
+  let wrappedText = "";
+  for (let i = 0; i < bestText.length; i++) {
+    wrappedText += bestText[i];
+    if ((i + 1) % 55 == 0) wrappedText += "\n";
+  }
+  text(wrappedText, 55, 385);
+}
+
+function drawStats() {
+  fill(255);
+  textSize(14);
+  text("HILL CLIMBING ITERATIONS: " + iterations, 300, 180);
+  text("FITNESS SCORE: " + bestScore, 300, 205);
+  
+  if (bestText.includes("COORDINATES")) {
+    fill(0, 255, 0);
+    text("STATUS: ANCHOR 'COORDINATES' LOCKED", 300, 230);
+  } else {
+    fill(255, 100, 0);
+    text("STATUS: SEARCHING LINGUISTIC ANCHORS...", 300, 230);
+  }
+}

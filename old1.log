@@ -1,0 +1,1050 @@
+
+[PT Worker 2] Cycle 0 | Score: -1644.42 | Time: 0s
+Row: [np.int8(7), np.int8(13), np.int8(0), np.int8(6), np.int8(9), np.int8(10), np.int8(3), np.int8(11), np.int8(8), np.int8(12), np.int8(5), np.int8(1), np.int8(2), np.int8(4)]
+Col: [np.int8(10), np.int8(3), np.int8(7), np.int8(11), np.int8(6), np.int8(0), np.int8(12), np.int8(1), np.int8(5), np.int8(4), np.int8(8), np.int8(2), np.int8(9), np.int8(13)]
+Square: PQWGRSXABCDEFHIKLMNOTUVYZ
+Text: IIKWGDGQGCDBCHKEIDGHDEKEWEEEHGGEHIIXKEFWBDRDBWKRQFREXBCIIDKWEFCQBFQDCFBXCWRRWFQXGGGIQQIWDXECCDDECGDHQCFQRFQWIBCBWCQFDKDGKXXFKBHFKGBHWFIXEHHCRCDIQBCQXIQDRRKQEEQGRIIEIBFWGBGDEKCRCHDDFDNLHYMBLLSFGQMI
+--------------------------------------------------------------------------------
+
+[PT Worker 2] Cycle 0 | Score: -1356.42 | Time: 0s
+Row: [np.int8(1), np.int8(10), np.int8(2), np.int8(0), np.int8(3), np.int8(11), np.int8(7), np.int8(13), np.int8(9), np.int8(8), np.int8(4), np.int8(5), np.int8(12), np.int8(6)]
+Col: [np.int8(7), np.int8(5), np.int8(9), np.int8(8), np.int8(10), np.int8(11), np.int8(13), np.int8(12), np.int8(2), np.int8(0), np.int8(3), np.int8(6), np.int8(4), np.int8(1)]
+Square: DNUFSBWKACEGHILMOPQRTVXYZ
+Text: ULAFLWIFIMEHGGHMMNEFUCEMAWWHEMHFCSFAGCEEIEEASECNSCNWSNLLAECMFNLLFFIECUASCANHSEMSLWGUNAPIOOQOPBLFHYGWCLGCNNECFEEUAFHGSLMNNLULGGFSFCUHAWSNLFWUGIGLEGMGFMGUGEEHCMCNLEGAHNHUIIIMUHIHALCGWFANCNSHEIHNALUC
+--------------------------------------------------------------------------------
+
+[PT Worker 2] Cycle 1 | Score: -1355.61 | Time: 0s
+Row: [np.int8(1), np.int8(10), np.int8(2), np.int8(0), np.int8(3), np.int8(11), np.int8(7), np.int8(13), np.int8(9), np.int8(8), np.int8(4), np.int8(5), np.int8(12), np.int8(6)]
+Col: [np.int8(7), np.int8(5), np.int8(9), np.int8(8), np.int8(11), np.int8(10), np.int8(13), np.int8(12), np.int8(2), np.int8(0), np.int8(3), np.int8(6), np.int8(4), np.int8(1)]
+Square: DNUFSBWKACEGHILMOPQRTVXYZ
+Text: ULAFLWIFIMEHGGHMMNEFUCEMAWWHEMHFCSFAGCEEIEEASECNSCNWSNLLASCANHSEMSLWGUAECMFNLLFFIECUNAPIOOQOPBLFHYGWCLGCNNECFEEUAFHGSLMNNLULGGFSFCUHAWSNLFWUGIGLEGMGFMGUGEEHCMCNLEGAHNHUIIIMUHIHALCGWFANCNSHEIHNALUC
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 2 | Score: -1269.63 | Time: 0s
+Row: [np.int8(9), np.int8(13), np.int8(2), np.int8(0), np.int8(4), np.int8(5), np.int8(6), np.int8(10), np.int8(8), np.int8(1), np.int8(11), np.int8(12), np.int8(7), np.int8(3)]
+Col: [np.int8(2), np.int8(8), np.int8(4), np.int8(12), np.int8(6), np.int8(5), np.int8(1), np.int8(10), np.int8(7), np.int8(13), np.int8(3), np.int8(11), np.int8(9), np.int8(0)]
+Square: WGMDIVSRPCELTOABFHKNQUXYZ
+Text: GGTLMALDAPALBIGCIEIGAPSEGAICPTOBCLDOAOTSOMEGCADEMSCLCEGLLECBTGMTPEGTACECBGPSTBBTDSMETOCGPACGGPTMEIDACBOEMEDPGCADODPDETLABMSLOAHFHOADYPVGFTKFDLLALMEOBLLLBEBECPASMIIPTLIGLPTDEEEBCEIODCISDCADMIGDTSPM
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 3 | Score: -1255.73 | Time: 0s
+Row: [np.int8(9), np.int8(11), np.int8(2), np.int8(0), np.int8(4), np.int8(5), np.int8(6), np.int8(10), np.int8(8), np.int8(1), np.int8(13), np.int8(12), np.int8(7), np.int8(3)]
+Col: [np.int8(2), np.int8(8), np.int8(4), np.int8(12), np.int8(6), np.int8(5), np.int8(1), np.int8(10), np.int8(7), np.int8(13), np.int8(3), np.int8(11), np.int8(9), np.int8(0)]
+Square: WGMDIVSRPCELTOABFHKNQUXYZ
+Text: GATLMALDAPGLBIGGIEIGAPSECAICPTOBCLDOAOTSOMECCADEMSCLGEGLLGCBTGMTPEETACEDBGPSTBBTCSMETTCGPACGGPOMEIDGCBOEMEDPACADOSPDETLABMDLOAHFHOADYPVGFTKFDLLALMEOBLLLBEBTCPASMIIPELIGLITDEEEBCEPODCITDCADMIGDSSPM
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 6 | Score: -1246.56 | Time: 0s
+Row: [np.int8(9), np.int8(11), np.int8(2), np.int8(0), np.int8(4), np.int8(5), np.int8(6), np.int8(10), np.int8(8), np.int8(1), np.int8(13), np.int8(12), np.int8(7), np.int8(3)]
+Col: [np.int8(2), np.int8(8), np.int8(4), np.int8(12), np.int8(6), np.int8(5), np.int8(1), np.int8(10), np.int8(7), np.int8(13), np.int8(3), np.int8(11), np.int8(9), np.int8(0)]
+Square: WGMDIKSRPCELTOABFHVNQUXYZ
+Text: GATLMALDAPGLBIGGIEIGAPSECAICPTOBCLDOAOTSOMECCADEMSCLGEGLLGCBTGMTPEETACEDBGPSTBBTCSMETTCGPACGGPOMEIDGCBOEMEDPACADOSPDETLABMDLOAHFHOADYPKGFTVFDLLALMEOBLLLBEBTCPASMIIPELIGLITDEEEBCEPODCITDCADMIGDSSPM
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 2 | Score: -1244.84 | Time: 0s
+Row: [np.int8(8), np.int8(9), np.int8(2), np.int8(3), np.int8(7), np.int8(6), np.int8(13), np.int8(0), np.int8(10), np.int8(11), np.int8(1), np.int8(5), np.int8(4), np.int8(12)]
+Col: [np.int8(11), np.int8(0), np.int8(1), np.int8(8), np.int8(7), np.int8(3), np.int8(5), np.int8(10), np.int8(13), np.int8(4), np.int8(12), np.int8(9), np.int8(2), np.int8(6)]
+Square: VORCMQXNSIATBDEHGFKLPUWYZ
+Text: MHIOMRASMBSXETOMCRSRXIMBCCEXOBIMAIDOOBSESRXOMIMEIASOAOMEHDSEDTCCEXRBATHCTAHATEDTTRTTHAHARBIOHCBXSXCCICEREHAOSADIQFFGKYGDSGOCEBESDRDCBHDBDTIXIAITOROEXITACAITBICASCHMAAADEOBMHTOTCESERTSTIIERAHBOAOBB
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 28 | Score: -1217.68 | Time: 0s
+Row: [np.int8(10), np.int8(4), np.int8(6), np.int8(11), np.int8(2), np.int8(13), np.int8(5), np.int8(3), np.int8(12), np.int8(1), np.int8(8), np.int8(0), np.int8(9), np.int8(7)]
+Col: [np.int8(9), np.int8(3), np.int8(10), np.int8(1), np.int8(4), np.int8(7), np.int8(6), np.int8(0), np.int8(2), np.int8(5), np.int8(8), np.int8(13), np.int8(11), np.int8(12)]
+Square: XCWNLRUKIEBSHTAGMFOPQDVYZ
+Text: GBBLHIBETBENSNTSBSSSWBSSGANGBTWCEABNEINGNACIEHETALWICCHBTENHTHSWUTAGITABSUINHASWGNTTHHWCEBCEHBIGSALAWHNUNWUNCELINWSAHCALSIASCGGIHNGEUBUHGCBWILACLECEABUBCLIAYMFMNMHCRTFOLAWHEBUCSILIGLUNWEECBSBSEABC
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 4 | Score: -1210.33 | Time: 0s
+Row: [np.int8(0), np.int8(9), np.int8(2), np.int8(3), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(10), np.int8(11), np.int8(1), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(13), np.int8(11), np.int8(1), np.int8(7), np.int8(5), np.int8(6), np.int8(10), np.int8(12), np.int8(8), np.int8(2), np.int8(0), np.int8(4), np.int8(3), np.int8(9)]
+Square: VORCMQXBSIATNDEHGFKLPUWYZ
+Text: DFFGKYGQSGOENCSHIOMRAMMNSETXONIMAIDOONSSRECDSEDTCHEXRATNOAHARNIHHCNSXXHTIIERASNOANNOHCICERECAOSDIAEAITOROIXITCAAAOMIMEIXSOAMEOTONMHTOECESRTEIMCRSRXOMNCEXCHSDRDCNEDNDIXTECTAHATHDTTTTRCTNICASIHMAADA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 5 | Score: -1177.70 | Time: 0s
+Row: [np.int8(0), np.int8(9), np.int8(2), np.int8(10), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(1), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(11), np.int8(0), np.int8(1), np.int8(8), np.int8(7), np.int8(3), np.int8(5), np.int8(10), np.int8(13), np.int8(4), np.int8(12), np.int8(9), np.int8(2), np.int8(6)]
+Square: VORCMQXBSIATNDEHGFKLPUWYZ
+Text: SHIMMRAMONSETXIMCMSRXORNCEXCONIOAIDOMNSSREAOMSMEIXIOAMEOCDSEDTCHEXRATNECTDHATHATTTTROAHHRNIHACNSXXHCIAERECCOSDIADFFSKYGQGGOENCHSDDDCNERNDIXTEAIXOROITITCAACTNHCASIIMAADATONCHTOEMESRTEHTINERASIOANNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 7 | Score: -1146.81 | Time: 0s
+Row: [np.int8(0), np.int8(9), np.int8(2), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(11), np.int8(0), np.int8(1), np.int8(8), np.int8(7), np.int8(3), np.int8(5), np.int8(10), np.int8(13), np.int8(4), np.int8(12), np.int8(9), np.int8(2), np.int8(6)]
+Square: VORCMQXBSIATNDEHGFKLPUWYZ
+Text: SHISMRAMONMETXIMCCSRXORNMEXCONISAIDOMNOSREAOMAMEIXIOSMEOCDSRDTCHEXEATNECTTHATHATDTTROAHNRNIHACHSXXHCISERECCOADIADFFOKYGQGGSENCHSDDDCNERNDIXTEAITOROITIXCAACTNACASIIMHADATONSHTOEMECRTEHTIAERASIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 9 | Score: -1135.84 | Time: 0s
+Row: [np.int8(0), np.int8(9), np.int8(2), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(11), np.int8(0), np.int8(1), np.int8(8), np.int8(7), np.int8(3), np.int8(5), np.int8(10), np.int8(9), np.int8(13), np.int8(12), np.int8(4), np.int8(2), np.int8(6)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: KHIKMRAMONMETSIMCCKRSORNMESCONIKAIDOMNOKREAOMAMEISIOKMEOCDKRDTCHESEATNECTTHATHATDTTROAHNRNIHACHKSSHCIKERECCOADIACTNACAKIIMHADADFFOXYGQGGKENCEAITOROITISCAAHKDDDCNERNDISTTONKHTOEMECRTEHTIAERAKIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 11 | Score: -1133.34 | Time: 0s
+Row: [np.int8(0), np.int8(9), np.int8(2), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(11), np.int8(0), np.int8(1), np.int8(8), np.int8(7), np.int8(3), np.int8(5), np.int8(10), np.int8(13), np.int8(4), np.int8(12), np.int8(9), np.int8(2), np.int8(6)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: KHIKMRAMONMETSIMCCKRSORNMESCONIKAIDOMNOKREAOMAMEISIOKMEOCDKRDTCHESEATNECTTHATHATDTTROAHNRNIHACHKSSHCIKERECCOADIADFFOXYGQGGKENCHKDDDCNERNDISTEAITOROITISCAACTNACAKIIMHADATONKHTOEMECRTEHTIAERAKIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 13 | Score: -1121.82 | Time: 0s
+Row: [np.int8(0), np.int8(2), np.int8(9), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(12), np.int8(7), np.int8(1), np.int8(8), np.int8(0), np.int8(3), np.int8(5), np.int8(10), np.int8(13), np.int8(4), np.int8(11), np.int8(6), np.int8(2), np.int8(9)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: EIATOROITISCAACKDRDTCHESEATNOINKAIDOMNOKREAMOAMEISIOKMEOICMCKRSORNMESCETCTHATHATDTTROHANRNIHACHKSSHICKERECCOADIADFFOXYGQGGKENCHDKDDCNERNDISTKIHKMRAMONMETSHITAERAKIONNNOTNOKHTOEMECRTECNTACAKIIMHADA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 18 | Score: -1117.71 | Time: 0s
+Row: [np.int8(0), np.int8(2), np.int8(9), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(3), np.int8(1), np.int8(8), np.int8(11), np.int8(0), np.int8(5), np.int8(10), np.int8(2), np.int8(4), np.int8(12), np.int8(9), np.int8(13), np.int8(6)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: CKDRDTCHESEATNETCTHATHATDTTROINKAIDOMNOKREAMOAMEISIOKMEOKIHKMRAMONMETSICMCKRSORNMESCOHANRNIHACHKSSHICKERECCOADIATNOKHTOEMECRTEHDKDDCNERNDISTEIATOROITISCAACNTACAKIIMHADADFFOXYGQGGKENCHITAERAKIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 22 | Score: -1116.04 | Time: 0s
+Row: [np.int8(0), np.int8(2), np.int8(9), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(3), np.int8(1), np.int8(8), np.int8(11), np.int8(0), np.int8(5), np.int8(10), np.int8(2), np.int8(4), np.int8(6), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: CKDRDTCHESEATNETCTHATHATDTTROINKAIDOMNOKREAMOAMEISIOKMEOKIHKMRAMONMETSICMCKRSORNMESCOHANRNIHACHKSSHICKERECCOADIATNOKHTOEMECRTEHDKDDCNERNDISTHITAERAKIONNNOCNTACAKIIMHADADFFOXYGQGGKENCEIATOROITISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 24 | Score: -1110.63 | Time: 0s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(8), np.int8(13), np.int8(11), np.int8(1), np.int8(10), np.int8(2), np.int8(4), np.int8(12), np.int8(9), np.int8(3), np.int8(6)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: KDCRDTCHESEATNCMICKRSORNMESCHAONRNIHACHKSSMOAAMEISIOKMEOFFDOXYGQGGKENCIHKKMRAMONMETSINOKAIDOMNOKREICHKERECCOADIANOTKHTOEMECRTEDKHDDCNERNDISTIAETOROITISCAANTCACAKIIMHADATCETHATHATDTTRITHAERAKIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 30 | Score: -1109.97 | Time: 0s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(8), np.int8(13), np.int8(11), np.int8(1), np.int8(12), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(6)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: KDCRDTCHESEATNCMICKRSORNMESCHAONRNIHACHKSSMOAAMEISIOKMEOFFDOXYGQGGKENCIHKKMRAMONMETSINOKAIDOMNOKREIAETOROITISCAANOTKHTOEMECRTEDKHDDCNERNDISTICHKERECCOADIANTCACAKIIMHADATCETHATHATDTTRITHAERAKIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 41 | Score: -1109.89 | Time: 0s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(11), np.int8(8), np.int8(13), np.int8(5), np.int8(1), np.int8(12), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(6)]
+Square: VORCMQSBKIATNDEHGFXLPUWYZ
+Text: KDCRDTCHESEATNCMICKRSORNMESCIHKKMRAMONMETSMOAAMEISIOKMEOFFDOXYGQGGKENCHAONRNIHACHKSSINOKAIDOMNOKREIAETOROITISCAANOTKHTOEMECRTEDKHDDCNERNDISTICHKERECCOADIANTCACAKIIMHADATCETHATHATDTTRITHAERAKIONNNO
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 42 | Score: -1097.60 | Time: 0s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(8), np.int8(13), np.int8(11), np.int8(1), np.int8(6), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(12)]
+Square: VORCMLSBKIATNDEHGFXQPUWYZ
+Text: KDCRDTCHESEATNCMICKRSORNMESCHAONRNIHACHKSSMOAAMEISIOKMEOFFDOXYGLGGKENCIHKKMRAMONMETSINOKAIDOMNOKREITHAERAKIONNNONOTKHTOEMECRTEDKHDDCNERNDISTICHKERECCOADIANTCACAKIIMHADATCETHATHATDTTRIAETOROITISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 56 | Score: -1097.40 | Time: 0s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(13), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(12)]
+Square: VORCMLSBKIATNDEHGFXQPUWYZ
+Text: KDCRDTCHESEATNCMICKRSORNMESCHAONRNIHACHKSSITHAERAKIONNNOFFDOXYGLGGKENCIHKKMRAMONMETSINOKAIDOMNOKREMOAAMEISIOKMEONOTKHTOEMECRTEDKHDDCNERNDISTICHKERECCOADIANTCACAKIIMHADATCETHATHATDTTRIAETOROITISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 70 | Score: -1096.78 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORCMLSBKIATNDEHGFXUPQWYZ
+Text: KDCRDTCHESEATNCMICKRSORNMESCHAONRNIHACHKSSITHAERAKIONNNOTCETHATHATDTTRIHKKMRAMONMETSINOKAIDOMNOKREMOAAMEISIOKMEONOTKHTOEMECRTEDKHDDCNERNDISTICHKERECCOADIANTCACAKIIMHADAFFDOXYGLGGKENCIAETOROITISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 74 | Score: -1095.76 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(12), np.int8(10), np.int8(4), np.int8(11), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(12), np.int8(9), np.int8(13), np.int8(10)]
+Square: VORCMLSBPIATNDEHGFXUKQWYZ
+Text: PDCRDTCHETEASNCMICPRSORSMENCHAONRNIHASHPCSITHAERAPINNNOOTCETHATHATDTTRIHPPMRAMOTMENSINOPAIDOMROPNEMOAAMEISIEPMOONOTPHTOEMTCREEDPHDDCNERSDINTIAETOROITASCIANTCACAPIIDHAMAFFDOXYGLGNPEGCICHPERECCIADOA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 77 | Score: -1089.95 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORCTLSBPIAMNDEHGFXUKQWYZ
+Text: PDCRDMCHESEAMNCTICPRSORNTESCHAONRNIHACHPSSIMHAERAPIONNNOMCEMHAMHAMDMMRIHPPTRATONTEMSINOPAIDOTNOPRETOAATEISIOPTEONOMPHMOETECRMEDPHDDCNERNDISMICHPERECCOADIANMCACAPIITHADAFFDOXYGLGGPENCIAEMOROIMISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 79 | Score: -1089.02 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(4), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(1), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(12), np.int8(9), np.int8(13), np.int8(10)]
+Square: VORCMLSBPIATNDEHGFXUKQWYZ
+Text: PDCADTCHESERTNCMIEPRSORNMCSCHAOPRNIHACHNSSITHNERAPIONANOTCETHATHATDTTRIHPEMRAMONMPTSINOPAIDOMNOPREMOAMMEISIOPAEONOTRHTOEMECPTEDPHIDCNERNDDSTIAECOROITISTAANTCACAPIIMHADAFFDEXYGLGGPONCICHDERECCOAPIA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 80 | Score: -1059.96 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORCMLSBPIATNDEHGFXUKQWYZ
+Text: PDCRDTCHESEATNCMICPRSORNMESCHAONRNIHACHPSSITHAERAPIONNNOTCETHATHATDTTRIHPPMRAMONMETSINOPAIDOMNOPREMOAAMEISIOPMEONOTPHTOEMECRTEDPHDDCNERNDISTICHPERECCOADIANTCACAPIIMHADAFFDOXYGLGGPENCIAETOROITISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 99 | Score: -1058.82 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORCMLSXPIATNDEHGFBUKQWYZ
+Text: PDCRDTCHESEATNCMICPRSORNMESCHAONRNIHACHPSSITHAERAPIONNNOTCETHATHATDTTRIHPPMRAMONMETSINOPAIDOMNOPREMOAAMEISIOPMEONOTPHTOEMECRTEDPHDDCNERNDISTICHPERECCOADIANTCACAPIIMHADAFFDOBYGLGGPENCIAETOROITISCAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 115 | Score: -1055.54 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(11), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNSMISPRCORNMECSHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRIHPPMRAMONMETCINOPAIDOMNOPREMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADAFFDOBYGLGGPENSIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 128 | Score: -1053.33 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(0), np.int8(5), np.int8(6), np.int8(3), np.int8(12), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(11)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNSMISPRCORNMECSHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRIAETOROITICSAAINOPAIDOMNOPREMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADAFFDOBYGLGGPENSIHPPMRAMONMETC
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 131 | Score: -1050.93 | Time: 1s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(3), np.int8(0), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRSMISPRCORNMECSINOPAIDOMNOPREMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADAFFDOBYGLGGPENSIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 137 | Score: -1048.77 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(3), np.int8(12), np.int8(1), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(0)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRIAETOROITICSAAINOPAIDOMNOPREMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADAFFDOBYGLGGPENSSMISPRCORNMECS
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 141 | Score: -1048.12 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(3), np.int8(1), np.int8(0), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(13), np.int8(12)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRINOPAIDOMNOPRESMISPRCORNMECSMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADAFFDOBYGLGGPENSIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 142 | Score: -1047.71 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(3), np.int8(0), np.int8(1), np.int8(9), np.int8(2), np.int8(4), np.int8(10), np.int8(8), np.int8(13), np.int8(12)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRSMISPRCORNMECSINOPAIDOMNOPRENTSASAPIIMHADANOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIAMOAAMEICIOPMEOFFDOBYGLGGPENSIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 145 | Score: -1045.56 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(3), np.int8(12), np.int8(1), np.int8(9), np.int8(2), np.int8(4), np.int8(10), np.int8(8), np.int8(13), np.int8(0)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOTSETHATHATDTTRIAETOROITICSAAINOPAIDOMNOPRENTSASAPIIMHADANOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIAMOAAMEICIOPMEOFFDOBYGLGGPENSSMISPRCORNMECS
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 146 | Score: -1044.99 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(13), np.int8(1), np.int8(0), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(12)]
+Square: VORSMLCXPIATNDEHGFBUKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOFFDOBYGLGGPENSINOPAIDOMNOPRESMISPRCORNMECSMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADATSETHATHATDTTRIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 159 | Score: -1042.98 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(6), np.int8(13), np.int8(1), np.int8(0), np.int8(8), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(12)]
+Square: VORSMLCXPIATNDEHUFBGKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCITHAERAPIONNNOFFDOBYULUUPENSINOPAIDOMNOPRESMISPRCORNMECSMOAAMEICIOPMEONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADATSETHATHATDTTRIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 169 | Score: -1042.15 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(6), np.int8(13), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(8), np.int8(13), np.int8(1), np.int8(0), np.int8(6), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(12)]
+Square: VORSMLCXPIATNDEHUFBGKQWYZ
+Text: PDSRDTSHECEATNIHPPMRAMONMETCHAONRNIHASHPCCMOAAMEICIOPMEOFFDOBYULUUPENSINOPAIDOMNOPRESMISPRCORNMECSITHAERAPIONNNONOTPHTOEMESRTEDPHDDSNERNDICTISHPERESSOADIANTSASAPIIMHADATSETHATHATDTTRIAETOROITICSAA
+--------------------------------------------------------------------------------
+
+[GA Worker 1] Cycle 173 | Score: -1041.72 | Time: 2s
+Row: [np.int8(2), np.int8(9), np.int8(0), np.int8(1), np.int8(7), np.int8(13), np.int8(6), np.int8(8), np.int8(3), np.int8(11), np.int8(10), np.int8(4), np.int8(12), np.int8(5)]
+Col: [np.int8(7), np.int8(11), np.int8(5), np.int8(8), np.int8(13), np.int8(1), np.int8(0), np.int8(6), np.int8(2), np.int8(4), np.int8(10), np.int8(9), np.int8(3), np.int8(12)]
+Square: VORSMLCXPIATNDEHUFBGKQWYZ
+Text: PDSRDSTHECEATNIHPPMARMONMETCHAONRINHASHPCCMOAAMIECIOPMEOFFDOBUYLUUPENSINOPADIOMNOPRESMISPCRORNMECSITHAEARPIONNNONOTPHOTEMESRTEDPHDDNSERNDICTISHPEERSSOADIANTSASPAIIMHADATSETHTAHATDTTRIAETOORITICSAA
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1402 | Score: -1029.22 | Time: 4s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(7), np.int8(3), np.int8(4), np.int8(11), np.int8(2), np.int8(8), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(6), np.int8(9), np.int8(12), np.int8(13)]
+Square: ZRICDYFQTEASNLOPBWUXGKVHM
+Text: CFOTOCLASLSPINSSASLOPSSCAPSINNILLPLEFTCOLSANREDTDOSPIDTFRODNCSPISRSOTOEREDTADDOROFARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCAREENPONNSITARTDENPCCALSAEAARESEFORCAAIESABBBWTLUONWHYRC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1629 | Score: -1028.80 | Time: 4s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(7), np.int8(2), np.int8(4), np.int8(9), np.int8(13), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(11), np.int8(12), np.int8(3)]
+Square: ZRICDYFMTEASNLOPGWBXQKUHV
+Text: CFOTOCLASLSPINRODNCSPISRSOTONNILLPLEFTCOLSTDENPCCALSAEAAGGGWTLBONWHYRCAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARANREDTDOSPIDTFRESEFORCAAIESASSASLOPSSCAPSI
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1633 | Score: -1028.58 | Time: 4s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(7), np.int8(2), np.int8(3), np.int8(9), np.int8(13), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(11), np.int8(12), np.int8(4)]
+Square: ZRICDYFMTEASNLOPGWBXQKUHV
+Text: CFOTOCLASLSPINRODNCSPISRSOTOSSASLOPSSCAPSITDENPCCALSAEAAGGGWTLBONWHYRCAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARANREDTDOSPIDTFRESEFORCAAIESANNILLPLEFTCOLS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1651 | Score: -1027.11 | Time: 4s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(7), np.int8(2), np.int8(3), np.int8(9), np.int8(13), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(11), np.int8(12), np.int8(4)]
+Square: ZRICDUFMTEASNLOPGWBXQKYHV
+Text: CFOTOCLASLSPINRODNCSPISRSOTOSSASLOPSSCAPSITDENPCCALSAEAAGGGWTLBONWHURCAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARANREDTDOSPIDTFRESEFORCAAIESANNILLPLEFTCOLS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1652 | Score: -1022.41 | Time: 4s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(2), np.int8(3), np.int8(7), np.int8(13), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(11), np.int8(12), np.int8(4)]
+Square: ZRICDUFMTEASNLOPGWBXQKYHV
+Text: TDENPCCALSAEAARODNCSPISRSOTOSSASLOPSSCAPSICFOTOCLASLSPINGGGWTLBONWHURCAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARANREDTDOSPIDTFRESEFORCAAIESANNILLPLEFTCOLS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1778 | Score: -1022.07 | Time: 5s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(2), np.int8(12), np.int8(3), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(11), np.int8(7), np.int8(13)]
+Square: KRICDUFZTEASNLOPGWBXQMYHV
+Text: TDENPCCALSAEAARODNCSPISRSOTORESEFORCAAIESASSASLOPSSCAPSINNILLPLEFTCOLSAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARANREDTDOSPIDTFCFOTOCLASLSPINGGGWTLBONWHURC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1807 | Score: -1021.10 | Time: 5s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(11), np.int8(2), np.int8(12), np.int8(3), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(9), np.int8(7), np.int8(13)]
+Square: KRICDUFZTEASNLOPGWBXQMYHV
+Text: ANREDTDOSPIDTFRODNCSPISRSOTORESEFORCAAIESASSASLOPSSCAPSINNILLPLEFTCOLSAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARTDENPCCALSAEAACFOTOCLASLSPINGGGWTLBONWHURC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1808 | Score: -1017.47 | Time: 5s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(11), np.int8(2), np.int8(12), np.int8(3), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(9), np.int8(7), np.int8(13)]
+Square: KRICDUFZTEASNLOPGYBXQMWHV
+Text: ANREDTDOSPIDTFRODNCSPISRSOTORESEFORCAAIESASSASLOPSSCAPSINNILLPLEFTCOLSAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARTDENPCCALSAEAACFOTOCLASLSPINGGGYTLBONYHURC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1874 | Score: -1017.35 | Time: 5s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(11), np.int8(2), np.int8(12), np.int8(9), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(3), np.int8(7), np.int8(13)]
+Square: KRICDUFZTEASNLOPGYBXQMWHV
+Text: ANREDTDOSPIDTFRODNCSPISRSOTORESEFORCAAIESATDENPCCALSAEAANNILLPLEFTCOLSAREENPONNSITARECAPPRITFANPNFORCEAPOLECICTALNDERRATINERTOFNICDETOFDIRCCEREDTADDOROFARSSASLOPSSCAPSICFOTOCLASLSPINGGGYTLBONYHURC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 1989 | Score: -1016.36 | Time: 5s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(11), np.int8(2), np.int8(12), np.int8(9), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(3), np.int8(7), np.int8(13)]
+Square: QRITDUFMCEASNLOPGYBKXZWHV
+Text: ANREDCDOSPIDCFRODNTSPISRSOCORESEFORTAAIESACDENPTTALSAEAANNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOFNITDECOFDIRTTEREDCADDOROFARSSASLOPSSTAPSITFOCOTLASLSPINGGGYCLBONYHURT
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2033 | Score: -1015.24 | Time: 5s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(11), np.int8(2), np.int8(12), np.int8(9), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(3), np.int8(7), np.int8(13)]
+Square: QRITDUFMCEASNLOPGYHVWZXBK
+Text: ANREDCDOSPIDCFRODNTSPISRSOCORESEFORTAAIESACDENPTTALSAEAANNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOFNITDECOFDIRTTEREDCADDOROFARSSASLOPSSTAPSITFOCOTLASLSPINGGGYCLHONYBURT
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2048 | Score: -1010.45 | Time: 6s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(13), np.int8(2), np.int8(12), np.int8(9), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(3), np.int8(7), np.int8(11)]
+Square: QRITDUFMCEASNLOPGYHVWZXBK
+Text: GGGYCLHONYBURTRODNTSPISRSOCORESEFORTAAIESACDENPTTALSAEAANNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOFNITDECOFDIRTTEREDCADDOROFARSSASLOPSSTAPSITFOCOTLASLSPINANREDCDOSPIDCF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2135 | Score: -1010.01 | Time: 6s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(13), np.int8(2), np.int8(12), np.int8(9), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(8), np.int8(7), np.int8(3), np.int8(11)]
+Square: QRITDUFMCEASNLOPGYHVWZXBK
+Text: GGGYCLHONYBURTRODNTSPISRSOCORESEFORTAAIESACDENPTTALSAEAANNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOFNITDECOFDIRTTEREDCADDOROFARTFOCOTLASLSPINSSASLOPSSTAPSIANREDCDOSPIDCF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2729 | Score: -1009.87 | Time: 7s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(7), np.int8(3), np.int8(1), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(12), np.int8(0), np.int8(2), np.int8(13), np.int8(8), np.int8(11)]
+Square: FRITDUWKCEASNLOPMYHQZGVBX
+Text: CDENPTTALSAEAATWOCOTLASLSPINSSASLOPSSTAPSILNDERRACINERCONNILLPLEWCTOLSAREENPONNSICARETAPPRICWANPNWORTEAPOLETITCARESEWORTAAIESAWNITDECOWDIRTTRODNTSPISRSOCOMMMYCLHONYBURTEREDCADDOROWARANREDCDOSPIDCW
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2781 | Score: -1009.20 | Time: 8s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(7), np.int8(3), np.int8(12), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(0), np.int8(2), np.int8(13), np.int8(8), np.int8(11)]
+Square: VRITDUWKCEASNLOPMYHXZGFBQ
+Text: CDENPTTALSAEAATWOCOTLASLSPINSSASLOPSSTAPSIRESEWORTAAIESANNILLPLEWCTOLSAREENPONNSICARETAPPRICWANPNWORTEAPOLETITCALNDERRACINERCOWNITDECOWDIRTTRODNTSPISRSOCOMMMYCLHONYBURTEREDCADDOROWARANREDCDOSPIDCW
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2804 | Score: -1006.65 | Time: 8s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(3), np.int8(7), np.int8(12), np.int8(4), np.int8(6), np.int8(11), np.int8(10), np.int8(1), np.int8(0), np.int8(2), np.int8(13), np.int8(8), np.int8(5)]
+Square: VRITDUWGCEASNLOPMYHXZKFBQ
+Text: CDENPTTALSAEAASSASLOPSSTAPSITWOCOTLASLSPINRESEWORTAAIESANNILLPLEWCTOLSAREENPONNSICARANREDCDOSPIDCWORTEAPOLETITCALNDERRACINERCOWNITDECOWDIRTTRODNTSPISRSOCOMMMYCLHONYBURTEREDCADDOROWARETAPPRICWANPNW
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 2933 | Score: -1006.04 | Time: 8s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(12), np.int8(7), np.int8(3), np.int8(4), np.int8(6), np.int8(11), np.int8(10), np.int8(1), np.int8(0), np.int8(2), np.int8(13), np.int8(8), np.int8(5)]
+Square: XRITDUWQCEASNLOPMYHGZKFBV
+Text: CDENPTTALSAEAARESEWORTAAIESATWOCOTLASLSPINSSASLOPSSTAPSINNILLPLEWCTOLSAREENPONNSICARANREDCDOSPIDCWORTEAPOLETITCALNDERRACINERCOWNITDECOWDIRTTRODNTSPISRSOCOMMMYCLHONYBURTEREDCADDOROWARETAPPRICWANPNW
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 3010 | Score: -1005.67 | Time: 8s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(12), np.int8(7), np.int8(3), np.int8(4), np.int8(6), np.int8(11), np.int8(10), np.int8(1), np.int8(13), np.int8(2), np.int8(0), np.int8(8), np.int8(5)]
+Square: FRITDUWQCEASNLOPMYHGZKXBV
+Text: CDENPTTALSAEAARESEWORTAAIESATWOCOTLASLSPINSSASLOPSSTAPSINNILLPLEWCTOLSAREENPONNSICARANREDCDOSPIDCWORTEAPOLETITCALNDERRACINERCOMMMYCLHONYBURTRODNTSPISRSOCOWNITDECOWDIRTTEREDCADDOROWARETAPPRICWANPNW
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 3014 | Score: -1005.29 | Time: 8s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(12), np.int8(7), np.int8(3), np.int8(4), np.int8(6), np.int8(11), np.int8(10), np.int8(1), np.int8(13), np.int8(2), np.int8(0), np.int8(8), np.int8(5)]
+Square: BRITDUWQCEASNLOPMYHGZKXFV
+Text: CDENPTTALSAEAARESEWORTAAIESATWOCOTLASLSPINSSASLOPSSTAPSINNILLPLEWCTOLSAREENPONNSICARANREDCDOSPIDCWORTEAPOLETITCALNDERRACINERCOMMMYCLHONYFURTRODNTSPISRSOCOWNITDECOWDIRTTEREDCADDOROWARETAPPRICWANPNW
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 3556 | Score: -1004.31 | Time: 10s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(12), np.int8(7), np.int8(3), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(13), np.int8(2), np.int8(0), np.int8(8), np.int8(11)]
+Square: QRITDUFKCEASNLOPMYWXVGBHZ
+Text: CDENPTTALSAEAARESEFORTAAIESATFOCOTLASLSPINSSASLOPSSTAPSINNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOMMMYCLWONYHURTRODNTSPISRSOCOFNITDECOFDIRTTEREDCADDOROFARANREDCDOSPIDCF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 3725 | Score: -1004.25 | Time: 10s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(12), np.int8(7), np.int8(3), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(13), np.int8(2), np.int8(0), np.int8(8), np.int8(11)]
+Square: WRITDUFKCEASNLOPMYGBQZVHX
+Text: CDENPTTALSAEAARESEFORTAAIESATFOCOTLASLSPINSSASLOPSSTAPSINNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOMMMYCLGONYHURTRODNTSPISRSOCOFNITDECOFDIRTTEREDCADDOROFARANREDCDOSPIDCF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 3748 | Score: -1002.21 | Time: 10s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(12), np.int8(7), np.int8(3), np.int8(4), np.int8(6), np.int8(5), np.int8(10), np.int8(1), np.int8(13), np.int8(2), np.int8(0), np.int8(8), np.int8(11)]
+Square: WRITDUFBCEASNLOPMGYKQZVHX
+Text: CDENPTTALSAEAARESEFORTAAIESATFOCOTLASLSPINSSASLOPSSTAPSINNILLPLEFCTOLSAREENPONNSICARETAPPRICFANPNFORTEAPOLETITCALNDERRACINERCOMMMGCLYONGHURTRODNTSPISRSOCOFNITDECOFDIRTTEREDCADDOROFARANREDCDOSPIDCF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 5189 | Score: -1002.21 | Time: 14s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(1), np.int8(12), np.int8(9), np.int8(3), np.int8(4), np.int8(6), np.int8(7), np.int8(10), np.int8(2), np.int8(13), np.int8(11), np.int8(0), np.int8(8), np.int8(5)]
+Square: BRITDUCXMEOSNLAPFGYVZKQHW
+Text: LNDERROMINERMARESECARTOOIESOMDENPTTOLSOEOOSSOSLAPSSTOPSINNILLPLECMTALSOREENPANNSIMORTCAMATLOSLSPINARTEOPALETITMORADNTSPISRSAMAFFFGMLYANGHURTONREDMDASPIDMCCNITDEMACDIRTTEREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 6426 | Score: -1002.03 | Time: 18s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(1), np.int8(12), np.int8(9), np.int8(3), np.int8(4), np.int8(10), np.int8(7), np.int8(6), np.int8(2), np.int8(13), np.int8(11), np.int8(0), np.int8(8), np.int8(5)]
+Square: VRITDUCXMEASNLOPFGYWBZQHK
+Text: LNDERRAMINERMORESECORTAAIESAMDENPTTALSAEAASSASLOPSSTAPSINNILLPLECMTOLSORTEAPOLETITMATCOMOTLASLSPINAREENPONNSIMARRODNTSPISRSOMOFFFGMLYONGHURTANREDMDOSPIDMCCNITDEMOCDIRTTEREDMADDOROCARETAPPRIMCANPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 6743 | Score: -1000.56 | Time: 19s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(1), np.int8(9), np.int8(2), np.int8(3), np.int8(7), np.int8(10), np.int8(4), np.int8(0), np.int8(12), np.int8(13), np.int8(11), np.int8(6), np.int8(8), np.int8(5)]
+Square: YRITDUCVMEOSNLAPFGBXWZQHK
+Text: LNDERROMINERMAMDENPTTOLSOEOORADNTSPISRSAMASSOSLAPSSTOPSITCAMATLOSLSPINARTEOPALETITMONNILLPLECMTALSCNITDEMACDIRTTRESECARTOOIESOFFFGMLBANGHURTONREDMDASPIDMCOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 6751 | Score: -998.70 | Time: 19s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(1), np.int8(9), np.int8(2), np.int8(3), np.int8(7), np.int8(10), np.int8(4), np.int8(11), np.int8(12), np.int8(13), np.int8(0), np.int8(6), np.int8(8), np.int8(5)]
+Square: YRITDUCVMEOSNLAPFGBXWZQHK
+Text: LNDERROMINERMAMDENPTTOLSOEOORADNTSPISRSAMASSOSLAPSSTOPSITCAMATLOSLSPINARTEOPALETITMONNILLPLECMTALSONREDMDASPIDMCRESECARTOOIESOFFFGMLBANGHURTCNITDEMACDIRTTOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 6782 | Score: -998.47 | Time: 19s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(1), np.int8(2), np.int8(3), np.int8(7), np.int8(10), np.int8(4), np.int8(11), np.int8(12), np.int8(13), np.int8(0), np.int8(6), np.int8(8), np.int8(5)]
+Square: YRITDUCVMEOSNLAPFGBXWZQHK
+Text: MDENPTTOLSOEOOLNDERROMINERMARADNTSPISRSAMASSOSLAPSSTOPSITCAMATLOSLSPINARTEOPALETITMONNILLPLECMTALSONREDMDASPIDMCRESECARTOOIESOFFFGMLBANGHURTCNITDEMACDIRTTOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 7529 | Score: -997.55 | Time: 21s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(4), np.int8(10), np.int8(3), np.int8(0), np.int8(2), np.int8(1), np.int8(7), np.int8(12), np.int8(13), np.int8(11), np.int8(6), np.int8(8), np.int8(5)]
+Square: ZRITDUCVMEOSNLAPFGBXYQKHW
+Text: MDENPTTOLSOEOONNILLPLECMTALSARTEOPALETITMOSSOSLAPSSTOPSICNITDEMACDIRTTRADNTSPISRSAMALNDERROMINERMATCAMATLOSLSPINRESECARTOOIESOFFFGMLBANGHURTONREDMDASPIDMCOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 8049 | Score: -996.38 | Time: 22s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(13), np.int8(10), np.int8(2), np.int8(1), np.int8(7), np.int8(3), np.int8(0), np.int8(12), np.int8(4), np.int8(11), np.int8(6), np.int8(8), np.int8(5)]
+Square: WRITDUCVMEOSNLAPFGYXZHKBQ
+Text: MDENPTTOLSOEOOFFFGMLYANGBURTARTEOPALETITMORADNTSPISRSAMALNDERROMINERMATCAMATLOSLSPINSSOSLAPSSTOPSICNITDEMACDIRTTRESECARTOOIESONNILLPLECMTALSONREDMDASPIDMCOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 8125 | Score: -993.53 | Time: 23s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(13), np.int8(10), np.int8(12), np.int8(1), np.int8(7), np.int8(3), np.int8(0), np.int8(2), np.int8(4), np.int8(11), np.int8(6), np.int8(8), np.int8(5)]
+Square: HRITDUCVMEOSNLAPFGYXWZKBQ
+Text: MDENPTTOLSOEOOFFFGMLYANGBURTARTEOPALETITMORESECARTOOIESOLNDERROMINERMATCAMATLOSLSPINSSOSLAPSSTOPSICNITDEMACDIRTTRADNTSPISRSAMANNILLPLECMTALSONREDMDASPIDMCOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 8428 | Score: -993.22 | Time: 24s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(13), np.int8(10), np.int8(12), np.int8(1), np.int8(7), np.int8(3), np.int8(0), np.int8(2), np.int8(4), np.int8(11), np.int8(6), np.int8(8), np.int8(5)]
+Square: BRITDUCXMEOSNLAPFGYQWKZHV
+Text: MDENPTTOLSOEOOFFFGMLYANGHURTARTEOPALETITMORESECARTOOIESOLNDERROMINERMATCAMATLOSLSPINSSOSLAPSSTOPSICNITDEMACDIRTTRADNTSPISRSAMANNILLPLECMTALSONREDMDASPIDMCOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 9126 | Score: -992.23 | Time: 26s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(13), np.int8(10), np.int8(12), np.int8(1), np.int8(7), np.int8(3), np.int8(0), np.int8(2), np.int8(4), np.int8(11), np.int8(6), np.int8(8), np.int8(5)]
+Square: VRITDUCWMEOSNLAPFGBQYKXHZ
+Text: MDENPTTOLSOEOOFFFGMLBANGHURTARTEOPALETITMORESECARTOOIESOLNDERROMINERMATCAMATLOSLSPINSSOSLAPSSTOPSICNITDEMACDIRTTRADNTSPISRSAMANNILLPLECMTALSONREDMDASPIDMCOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNC
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 9498 | Score: -991.31 | Time: 27s
+Row: [np.int8(13), np.int8(11), np.int8(3), np.int8(2), np.int8(10), np.int8(0), np.int8(7), np.int8(4), np.int8(12), np.int8(9), np.int8(6), np.int8(8), np.int8(1), np.int8(5)]
+Col: [np.int8(9), np.int8(13), np.int8(10), np.int8(12), np.int8(1), np.int8(7), np.int8(3), np.int8(0), np.int8(2), np.int8(4), np.int8(6), np.int8(8), np.int8(5), np.int8(11)]
+Square: WRITDUCQMEOSNLAPFGBXKYVHZ
+Text: MDENPTTOLSOEOOFFFGMLBANGHURTARTEOPALETITMORESECARTOOIESOLNDERROMINERMATCAMATLOSLSPINSSOSLAPSSTOPSICNITDEMACDIRTTRADNTSPISRSAMANNILLPLECMTALSOREENPANNSIMOREREDMODDARACORETOPPRIMCONPNCONREDMDASPIDMC
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 15701 | Score: -991.11 | Time: 95s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(11), np.int8(5), np.int8(2), np.int8(8), np.int8(1), np.int8(6), np.int8(12), np.int8(4), np.int8(7), np.int8(13), np.int8(10), np.int8(9), np.int8(0), np.int8(3)]
+Square: ZDILPBUXARONSCETHFKVWGYMQ
+Text: ADSNOTUPPEAPRISOLUROUTTADITSAPENDDELEINTSNORDERDDAUPOPPEAPSICSEDDADORRORDSONDSASTERINNRODOOURLEDRICISUSANCERTCCLIEUNLCSETOLCANDHHSHFLABECKFMALDRELOOLCTERIORPCANOTROLLSOLISUUPLPDERALINONNNLICTNETNO
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 15846 | Score: -990.63 | Time: 96s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(12), np.int8(5), np.int8(8), np.int8(1), np.int8(2), np.int8(6), np.int8(10), np.int8(4), np.int8(7), np.int8(13), np.int8(11), np.int8(9), np.int8(0), np.int8(3)]
+Square: XDILPVUGARONSCETHFKBWZYMQ
+Text: NNRODOOURLEDRISOLUROUTTADITSORDERDDAUPOPPEAPSICSEDDADORRAPENDDELEINTSNORDSONDSASTERIALDRELOOLCTERICISUSANCERTCCLIEUNLCSETOLCANDHHSHFLAVECKFMADSNOTUPPEAPRIORPCANOTROLLSOLISUUPLPDERALINONNNLICTNETNO
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 16850 | Score: -990.48 | Time: 99s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(13), np.int8(6), np.int8(9), np.int8(1), np.int8(7), np.int8(10), np.int8(3), np.int8(12), np.int8(0), np.int8(4), np.int8(11), np.int8(5), np.int8(2), np.int8(8)]
+Square: FDILPGUZARONSCETMBHXWKVYQ
+Text: DMMSMBLAGECHBYORDSONDSASTERIORPCANOTROLLSOAPSICSEDDADORRIEUNLCSETOLCANALDRELOOLCTERINONNNLICTNETNONNRODOOURLEDRILISUUPLPDERALICISUSANCERTCCLADSNOTUPPEAPRISOLUROUTTADITSAPENDDELEINTSNORDERDDAUPOPPE
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 16866 | Score: -989.49 | Time: 99s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(13), np.int8(6), np.int8(9), np.int8(1), np.int8(7), np.int8(10), np.int8(12), np.int8(3), np.int8(0), np.int8(4), np.int8(11), np.int8(5), np.int8(2), np.int8(8)]
+Square: FDILPGUZARONSCETMBHXWKVYQ
+Text: DMMSMBLAGECHBYORDSONDSASTERIORPCANOTROLLSOAPSICSEDDADORRIEUNLCSETOLCANALDRELOOLCTERINNRODOOURLEDRINONNNLICTNETNOLISUUPLPDERALICISUSANCERTCCLADSNOTUPPEAPRISOLUROUTTADITSAPENDDELEINTSNORDERDDAUPOPPE
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 17532 | Score: -988.35 | Time: 101s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(8), np.int8(10), np.int8(9), np.int8(1), np.int8(7), np.int8(13), np.int8(5), np.int8(2), np.int8(6), np.int8(12), np.int8(0), np.int8(3), np.int8(11), np.int8(4)]
+Square: FDILPGUVARONSCETMBHZQXWYK
+Text: ORDERDDAUPOPPEALDRELOOLCTERIORPCANOTROLLSOAPSICSEDDADORRIEUNLCSETOLCANDMMSMBLAGECHBYSOLUROUTTADITSAPENDDELEINTSNORDSONDSASTERINNRODOOURLEDRILISUUPLPDERALINONNNLICTNETNOADSNOTUPPEAPRICISUSANCERTCCL
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 17898 | Score: -987.17 | Time: 102s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(7), np.int8(13), np.int8(1), np.int8(6), np.int8(9), np.int8(12), np.int8(10), np.int8(5), np.int8(2), np.int8(8), np.int8(11), np.int8(3), np.int8(0), np.int8(4)]
+Square: VDILPGUFARONSCETMBHZXKWYQ
+Text: IEUNLCSETOLCANDMMSMBLAGECHBYAPSICSEDDADORRORDSONDSASTERIORPCANOTROLLSONNRODOOURLEDRIALDRELOOLCTERISOLUROUTTADITSAPENDDELEINTSNORDERDDAUPOPPEADSNOTUPPEAPRINONNNLICTNETNOLISUUPLPDERALICISUSANCERTCCL
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 17974 | Score: -987.11 | Time: 102s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(7), np.int8(13), np.int8(1), np.int8(6), np.int8(8), np.int8(12), np.int8(10), np.int8(5), np.int8(2), np.int8(9), np.int8(11), np.int8(3), np.int8(0), np.int8(4)]
+Square: VDILPGUFARONSCETMBHZXKWYQ
+Text: IEUNLCSETOLCANDMMSMBLAGECHBYAPSICSEDDADORRORDSONDSASTERIORDERDDAUPOPPENNRODOOURLEDRIALDRELOOLCTERISOLUROUTTADITSAPENDDELEINTSNORPCANOTROLLSOADSNOTUPPEAPRINONNNLICTNETNOLISUUPLPDERALICISUSANCERTCCL
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 18015 | Score: -986.72 | Time: 103s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(7), np.int8(13), np.int8(1), np.int8(6), np.int8(9), np.int8(11), np.int8(10), np.int8(5), np.int8(2), np.int8(8), np.int8(12), np.int8(3), np.int8(0), np.int8(4)]
+Square: VDILPGUXARONSCETMBHKFZWYQ
+Text: IEUNLCSETOLCANDMMSMBLAGECHBYAPSICSEDDADORRORDSONDSASTERIORPCANOTROLLSOADSNOTUPPEAPRIALDRELOOLCTERISOLUROUTTADITSAPENDDELEINTSNORDERDDAUPOPPENNRODOOURLEDRINONNNLICTNETNOLISUUPLPDERALICISUSANCERTCCL
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 18454 | Score: -986.47 | Time: 104s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(7), np.int8(13), np.int8(2), np.int8(6), np.int8(3), np.int8(0), np.int8(10), np.int8(4), np.int8(1), np.int8(9), np.int8(11), np.int8(5), np.int8(8), np.int8(12)]
+Square: QDILPVUZARONSCETMBHWXGFYK
+Text: IEUNLCSETOLCANDMMSMBLAVECHBYAPENDDELEINTSNORDSONDSASTERINONNNLICTNETNOLISUUPLPDERALIALDRELOOLCTERICISUSANCERTCCLAPSICSEDDADORRORPCANOTROLLSOADSNOTUPPEAPRISOLUROUTTADITSORDERDDAUPOPPENNRODOOURLEDRI
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 29628 | Score: -986.38 | Time: 137s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(11), np.int8(5), np.int8(0), np.int8(12), np.int8(3), np.int8(6), np.int8(10), np.int8(4), np.int8(2), np.int8(1), np.int8(7), np.int8(8), np.int8(13), np.int8(9)]
+Square: XDILPVUZARONSCETBYHMKGWFQ
+Text: ADSNOTUPPEAPRISOLUROUTTADITSLISUUPLPDERALINNRODOOURLEDRINONNNLICTNETNOORDSONDSASTERIALDRELOOLCTERICISUSANCERTCCLAPENDDELEINTSNAPSICSEDDADORRIEUNLCSETOLCANORDERDDAUPOPPEDBBSBYLAVECHYFORPCANOTROLLSO
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 30671 | Score: -985.45 | Time: 141s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(8), np.int8(1), np.int8(10), np.int8(12), np.int8(3), np.int8(0), np.int8(5), np.int8(2), np.int8(6), np.int8(4), np.int8(7), np.int8(13), np.int8(9), np.int8(11)]
+Square: WDILPVUMARONSCETBYHZXGQFK
+Text: ORDERDDAUPOPPEAPSICSEDDADORRALDRELOOLCTERINNRODOOURLEDRINONNNLICTNETNOLISUUPLPDERALISOLUROUTTADITSAPENDDELEINTSNORDSONDSASTERICISUSANCERTCCLIEUNLCSETOLCANDBBSBYLAVECHYFORPCANOTROLLSOADSNOTUPPEAPRI
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 30673 | Score: -982.89 | Time: 141s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(1), np.int8(8), np.int8(10), np.int8(12), np.int8(3), np.int8(0), np.int8(5), np.int8(2), np.int8(6), np.int8(4), np.int8(7), np.int8(13), np.int8(9), np.int8(11)]
+Square: WDILPVUMARONSCETBYHZXGQFK
+Text: APSICSEDDADORRORDERDDAUPOPPEALDRELOOLCTERINNRODOOURLEDRINONNNLICTNETNOLISUUPLPDERALISOLUROUTTADITSAPENDDELEINTSNORDSONDSASTERICISUSANCERTCCLIEUNLCSETOLCANDBBSBYLAVECHYFORPCANOTROLLSOADSNOTUPPEAPRI
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 30767 | Score: -982.56 | Time: 141s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(1), np.int8(8), np.int8(10), np.int8(12), np.int8(3), np.int8(11), np.int8(5), np.int8(2), np.int8(6), np.int8(4), np.int8(7), np.int8(13), np.int8(9), np.int8(0)]
+Square: ZDILPVUMARONSCETBYHGXWQFK
+Text: APSICSEDDADORRORDERDDAUPOPPEALDRELOOLCTERINNRODOOURLEDRINONNNLICTNETNOADSNOTUPPEAPRISOLUROUTTADITSAPENDDELEINTSNORDSONDSASTERICISUSANCERTCCLIEUNLCSETOLCANDBBSBYLAVECHYFORPCANOTROLLSOLISUUPLPDERALI
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 30789 | Score: -981.59 | Time: 141s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(1), np.int8(8), np.int8(12), np.int8(10), np.int8(3), np.int8(11), np.int8(5), np.int8(2), np.int8(6), np.int8(4), np.int8(7), np.int8(13), np.int8(9), np.int8(0)]
+Square: ZDILPVUMARONSCETBYHGXWQFK
+Text: APSICSEDDADORRORDERDDAUPOPPENNRODOOURLEDRIALDRELOOLCTERINONNNLICTNETNOADSNOTUPPEAPRISOLUROUTTADITSAPENDDELEINTSNORDSONDSASTERICISUSANCERTCCLIEUNLCSETOLCANDBBSBYLAVECHYFORPCANOTROLLSOLISUUPLPDERALI
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 74344 | Score: -981.39 | Time: 402s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(13), np.int8(9), np.int8(3), np.int8(6), np.int8(12), np.int8(10), np.int8(5), np.int8(2), np.int8(8), np.int8(0), np.int8(1), np.int8(7), np.int8(11), np.int8(4)]
+Square: PDILMVUWARONSCETBYHKQXZFG
+Text: DBBSBYLAVECHYFORMCANOTROLLSONONNNLICTNETNOORDSONDSASTERINNRODOOURLEDRIALDRELOOLCTERISOLUROUTTADITSAMENDDELEINTSNORDERDDAUMOMMELISUUMLMDERALIAMSICSEDDADORRIEUNLCSETOLCANADSNOTUMMEAMRICISUSANCERTCCL
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 86688 | Score: -981.38 | Time: 439s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(12), np.int8(10), np.int8(5), np.int8(1), np.int8(7), np.int8(2), np.int8(8), np.int8(13), np.int8(9), np.int8(0), np.int8(3), np.int8(11), np.int8(6), np.int8(4)]
+Square: MDILPVUQARONSCETBYHKWZXFG
+Text: NNRODOOURLEDRIALDRELOOLCTERISOLUROUTTADITSAPSICSEDDADORRIEUNLCSETOLCANAPENDDELEINTSNORDERDDAUPOPPEDBBSBYLAVECHYFORPCANOTROLLSOLISUUPLPDERALINONNNLICTNETNOADSNOTUPPEAPRIORDSONDSASTERICISUSANCERTCCL
+--------------------------------------------------------------------------------
+
+[PT Worker 1] Cycle 91393 | Score: -981.37 | Time: 453s
+Row: [np.int8(1), np.int8(3), np.int8(11), np.int8(12), np.int8(13), np.int8(9), np.int8(5), np.int8(10), np.int8(8), np.int8(4), np.int8(0), np.int8(7), np.int8(2), np.int8(6)]
+Col: [np.int8(13), np.int8(8), np.int8(2), np.int8(6), np.int8(12), np.int8(5), np.int8(11), np.int8(4), np.int8(1), np.int8(7), np.int8(10), np.int8(9), np.int8(0), np.int8(3)]
+Square: XDILPMUZARONSCETBYHGQVKFW
+Text: DBBSBYLAMECHYFORDERDDAUPOPPEAPENDDELEINTSNORDSONDSASTERINNRODOOURLEDRISOLUROUTTADITSADSNOTUPPEAPRICISUSANCERTCCLAPSICSEDDADORRIEUNLCSETOLCANALDRELOOLCTERIORPCANOTROLLSOLISUUPLPDERALINONNNLICTNETNO
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 126641 | Score: -978.15 | Time: 459s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(0), np.int8(7), np.int8(5), np.int8(1), np.int8(11), np.int8(9), np.int8(3), np.int8(13), np.int8(10), np.int8(2), np.int8(4), np.int8(8), np.int8(12), np.int8(6)]
+Square: WNDIHPLGSTERAUOCMFYQXZKBV
+Text: NLDSATHOIHIILDCROULIOESUDAIRCLEDINCSCEALTANDHEANNSTASOUTHRNHASHOTCSLEDTUTIHICEAREESECRECROURRIRDREPAMYMUSOFFNIMBITIONCEUTISEODORHCORIDANSONROLDUACUTUSURAILOTHNESHHNENTOTERNTOLITERENDSATONCAATRENED
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 126811 | Score: -977.71 | Time: 460s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(5), np.int8(1), np.int8(6), np.int8(12), np.int8(3), np.int8(13), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(8), np.int8(0)]
+Square: WNDIHGLVSTERAUOPMFYXQCKBZ
+Text: HRNHASHOTPSLEDPROULIOESUDAIRPLEDINPSPEALTANDHEANNSTASOUTSATONPAATRENEDTERNTOLITERENDPREPROURRIRDREGAMYMUSOFFNIMBITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESELOTHNESHHNENTONLDSATHOIHIILD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 127251 | Score: -976.95 | Time: 461s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(5), np.int8(1), np.int8(6), np.int8(12), np.int8(10), np.int8(3), np.int8(13), np.int8(2), np.int8(4), np.int8(9), np.int8(8), np.int8(0)]
+Square: WNDIHGLKSTERAUOPMFYXVCZBQ
+Text: HRNHASHOTPSLEDPROULIOESUDAIRPLEDINPSPEALTANDHEANNSTASOUTSATONPAATRENEDTERNTOLITERENDITIONPEUTISEODPREPROURRIRDREGAMYMUSOFFNIMBORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESELOTHNESHHNENTONLDSATHOIHIILD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 127733 | Score: -976.44 | Time: 463s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(3), np.int8(7), np.int8(6), np.int8(13), np.int8(2), np.int8(4), np.int8(9), np.int8(0), np.int8(10)]
+Square: BNDIHGLVSTERAUOPMFYXCQZWK
+Text: HRNHASHOTPSLEDLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDPREPROURRIRDREPROULIOESUDAIRSATONPAATRENEDGAMYMUSOFFNIMWORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESENLDSATHOIHIILDITIONPEUTISEOD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 127754 | Score: -975.48 | Time: 463s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(3), np.int8(7), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(0), np.int8(13)]
+Square: BNDIHGLVSTERAUOPMFYXCQZWK
+Text: HRNHASHOTPSLEDLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDPREPROURRIRDREPROULIOESUDAIRSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESENLDSATHOIHIILDGAMYMUSOFFNIMW
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 128246 | Score: -975.04 | Time: 464s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(0), np.int8(9), np.int8(3), np.int8(7), np.int8(8), np.int8(5), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(1), np.int8(11), np.int8(13)]
+Square: CNDIHGLVSTERAUOPMFYQZKXBW
+Text: NLDSATHOIHIILDTUTIHIPEAREESEPREPROURRIRDREPROULIOESUDAIRLOTHNESHHNENTOPLEDINPSPEALTATERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINDHEANNSTASOUTHRNHASHOTPSLEDGAMYMUSOFFNIMB
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 129716 | Score: -974.93 | Time: 469s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(6), np.int8(9), np.int8(12), np.int8(3), np.int8(8), np.int8(0), np.int8(10), np.int8(2), np.int8(4), np.int8(5), np.int8(1), np.int8(13)]
+Square: VNDIHWLPSTERAUOGCFKQXYBMZ
+Text: HRNHASHOTGSLEDGROULIOESUDAIRSATONGAATRENEDTUTIHIGEAREESETERNTOLITERENDGREGROURRIRDRELOTHNESHHNENTONLDSATHOIHIILDITIONGEUTISEODORHGORIDANSONROLDUAGUTUSURAIGLEDINGSGEALTANDHEANNSTASOUTWACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 129887 | Score: -973.26 | Time: 469s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(5), np.int8(8), np.int8(3), np.int8(0), np.int8(6), np.int8(12), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(1), np.int8(13)]
+Square: VNDIHBLWSTERAUOGCFKXYPZMQ
+Text: HRNHASHOTGSLEDGROULIOESUDAIRGLEDINGSGEALTALOTHNESHHNENTOGREGROURRIRDRENLDSATHOIHIILDSATONGAATRENEDTERNTOLITERENDITIONGEUTISEODORHGORIDANSONROLDUAGUTUSURAITUTIHIGEAREESENDHEANNSTASOUTBACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 129892 | Score: -971.92 | Time: 469s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(5), np.int8(8), np.int8(3), np.int8(0), np.int8(6), np.int8(12), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(1), np.int8(13)]
+Square: VNDIHBLWSTERAUOPCFKXYGZMQ
+Text: HRNHASHOTPSLEDPROULIOESUDAIRPLEDINPSPEALTALOTHNESHHNENTOPREPROURRIRDRENLDSATHOIHIILDSATONPAATRENEDTERNTOLITERENDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESENDHEANNSTASOUTBACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 134312 | Score: -970.79 | Time: 483s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(3), np.int8(9), np.int8(12), np.int8(7), np.int8(8), np.int8(5), np.int8(1), np.int8(2), np.int8(4), np.int8(0), np.int8(6), np.int8(13), np.int8(10)]
+Square: MNDIHBLQSTERAUOPCFKXVGZYW
+Text: HRNHASHOTPSLEDPREPROURRIRDRETUTIHIPEAREESETERNTOLITERENDPROULIOESUDAIRLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDSATONPAATRENEDBACKCUSOFFNICYITIONPEUTISEOD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 135711 | Score: -970.05 | Time: 489s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(3), np.int8(13), np.int8(2), np.int8(4), np.int8(0), np.int8(9), np.int8(6), np.int8(10)]
+Square: VNDIHMLBSTERAUOPCFKZWGQYX
+Text: HRNHASHOTPSLEDPROULIOESUDAIRLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDPREPROURRIRDREMACKCUSOFFNICYORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDTUTIHIPEAREESESATONPAATRENEDITIONPEUTISEOD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 136195 | Score: -969.57 | Time: 491s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(7), np.int8(3), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(8), np.int8(0), np.int8(13)]
+Square: WNDIHMLGSTERAUOPCFKBZYQVX
+Text: HRNHASHOTPSLEDPROULIOESUDAIRPREPROURRIRDREPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESELOTHNESHHNENTONLDSATHOIHIILDMACKCUSOFFNICV
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 136246 | Score: -969.48 | Time: 491s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(3), np.int8(7), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(8), np.int8(0), np.int8(13)]
+Square: WNDIHMLGSTERAUOPCFKBZYQVX
+Text: HRNHASHOTPSLEDPREPROURRIRDREPROULIOESUDAIRPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESELOTHNESHHNENTONLDSATHOIHIILDMACKCUSOFFNICV
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 136549 | Score: -968.95 | Time: 496s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(3), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(9), np.int8(0), np.int8(7), np.int8(13)]
+Square: VNDIHMLGSTERAUOPCFKXBQZYW
+Text: HRNHASHOTPSLEDPREPROURRIRDRELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAITUTIHIPEAREESENLDSATHOIHIILDPROULIOESUDAIRMACKCUSOFFNICY
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 137023 | Score: -968.70 | Time: 502s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(3), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(13), np.int8(6), np.int8(2), np.int8(4), np.int8(0), np.int8(9), np.int8(7), np.int8(10)]
+Square: QNDIHMLGSTERAUOPCFYVWZBKX
+Text: HRNHASHOTPSLEDPREPROURRIRDRELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDMACYCUSOFFNICKSATONPAATRENEDORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDTUTIHIPEAREESEPROULIOESUDAIRITIONPEUTISEOD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 137071 | Score: -967.83 | Time: 503s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(13), np.int8(6), np.int8(2), np.int8(4), np.int8(0), np.int8(3), np.int8(7), np.int8(10)]
+Square: QNDIHMLGSTERAUOPCFYVWZBKX
+Text: HRNHASHOTPSLEDTUTIHIPEAREESELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDMACYCUSOFFNICKSATONPAATRENEDORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPREPROURRIRDREPROULIOESUDAIRITIONPEUTISEOD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 137217 | Score: -967.80 | Time: 505s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(7), np.int8(13), np.int8(2), np.int8(4), np.int8(0), np.int8(3), np.int8(6), np.int8(10)]
+Square: QNDIHMLVSTERAUOPCFYXWZBKG
+Text: HRNHASHOTPSLEDTUTIHIPEAREESELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDPROULIOESUDAIRMACYCUSOFFNICKORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPREPROURRIRDRESATONPAATRENEDITIONPEUTISEOD
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 138843 | Score: -966.77 | Time: 526s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(3), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(8), np.int8(7), np.int8(13)]
+Square: WNDIHBLMSTERAUOPCFKXVZQGY
+Text: HRNHASHOTPSLEDTUTIHIPEAREESEPREPROURRIRDREPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDLOTHNESHHNENTOPROULIOESUDAIRBACKCUSOFFNICG
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 139188 | Score: -965.62 | Time: 531s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(3), np.int8(7), np.int8(13)]
+Square: QNDIHBLXSTERAUOPCFKMVZWGY
+Text: HRNHASHOTPSLEDTUTIHIPEAREESELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPREPROURRIRDREPROULIOESUDAIRBACKCUSOFFNICG
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 140531 | Score: -965.61 | Time: 549s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(3), np.int8(7), np.int8(13)]
+Square: XNDIHBLYSTERAUOPCFKZGMVWQ
+Text: HRNHASHOTPSLEDTUTIHIPEAREESELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPREPROURRIRDREPROULIOESUDAIRBACKCUSOFFNICW
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 140552 | Score: -965.50 | Time: 549s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(3), np.int8(7), np.int8(13)]
+Square: XNDIHBLYSTERAUOPCFKZGWVMQ
+Text: HRNHASHOTPSLEDTUTIHIPEAREESELOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPREPROURRIRDREPROULIOESUDAIRBACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 360991 | Score: -965.47 | Time: 1898s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(3), np.int8(7), np.int8(9), np.int8(6), np.int8(13)]
+Square: QNDIHBLYSTERAUOPCFKGVZXMW
+Text: HRNHASHOTPSLEDLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPREPROURRIRDREPROULIOESUDAIRTUTIHIPEAREESESATONPAATRENEDBACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 361162 | Score: -965.44 | Time: 1898s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(7), np.int8(9), np.int8(3), np.int8(6), np.int8(13)]
+Square: YNDIHBLXSTERAUOPCFKGVZQMW
+Text: HRNHASHOTPSLEDLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDPROULIOESUDAIRTUTIHIPEAREESEPREPROURRIRDRESATONPAATRENEDBACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 2] Cycle 497389 | Score: -964.97 | Time: 2415s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(9), np.int8(6), np.int8(13), np.int8(2), np.int8(5), np.int8(1), np.int8(10), np.int8(0), np.int8(11), np.int8(4)]
+Col: [np.int8(10), np.int8(0), np.int8(12), np.int8(11), np.int8(9), np.int8(3), np.int8(4), np.int8(13), np.int8(1), np.int8(2), np.int8(8), np.int8(6), np.int8(7), np.int8(5)]
+Square: QTCDUGHXRNELIOASMYBKWVFPZ
+Text: DNDADCANERESTOTHCRUCHDDDUNIANELTECTNELHANDULTUSCENHRURIANONDLERIEESDUESLESDELLCLOALLAHCORDIOLOOSINGIMBYPMYDTROMATCUEINONARTTIRALUSTLTIARDLACHANUTANUTERETURINALCENTEISTISLAOOLDRICADHESHECEINSHISTDR
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 520615 | Score: -964.58 | Time: 2605s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(9), np.int8(3), np.int8(7), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(6), np.int8(13)]
+Square: XNDIHBLZSTERAUOPCFKMGYVWQ
+Text: HRNHASHOTPSLEDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDTUTIHIPEAREESEPREPROURRIRDREPROULIOESUDAIRLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDSATONPAATRENEDBACKCUSOFFNICW
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 1728178 | Score: -964.57 | Time: 8733s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(3), np.int8(7), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(6), np.int8(13)]
+Square: MNDIHBLVSTERAUOPCFKXGZQWY
+Text: HRNHASHOTPSLEDTUTIHIPEAREESEPREPROURRIRDREPROULIOESUDAIRLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDSATONPAATRENEDBACKCUSOFFNICW
+--------------------------------------------------------------------------------
+
+[PT Worker 3] Cycle 2444100 | Score: -964.46 | Time: 12113s
+Row: [np.int8(8), np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(0), np.int8(10), np.int8(4), np.int8(2), np.int8(9), np.int8(1), np.int8(5), np.int8(13), np.int8(6)]
+Col: [np.int8(11), np.int8(9), np.int8(3), np.int8(7), np.int8(8), np.int8(5), np.int8(1), np.int8(12), np.int8(10), np.int8(2), np.int8(4), np.int8(0), np.int8(6), np.int8(13)]
+Square: ZNDIHBLXSTERAUOPCFKWQGVMY
+Text: HRNHASHOTPSLEDTUTIHIPEAREESEPREPROURRIRDREPROULIOESUDAIRLOTHNESHHNENTOPLEDINPSPEALTANDHEANNSTASOUTTERNTOLITERENDITIONPEUTISEODORHPORIDANSONROLDUAPUTUSURAINLDSATHOIHIILDSATONPAATRENEDBACKCUSOFFNICM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4182498 | Score: -963.93 | Time: 21983s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(6), np.int8(7), np.int8(9), np.int8(11), np.int8(12), np.int8(4), np.int8(3), np.int8(1), np.int8(0), np.int8(8), np.int8(10), np.int8(2), np.int8(5), np.int8(13)]
+Square: XNRSOYUZDATCELIHVBWKQFGPM
+Text: CERINHEADENTATLICLESTIHCURDSCHTSTSTAALOTEDHOROUDINOCEDATTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCENATINDONREDALOORDSAIRNUESSUNDIONTOAUINTOASTRITHLSSANDAINSCHICROICIDENTHERUNDTHUSEHABDPWSLIVYEVNBV
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4182655 | Score: -961.78 | Time: 21984s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(12), np.int8(4), np.int8(7), np.int8(11), np.int8(1), np.int8(6), np.int8(9), np.int8(0), np.int8(3), np.int8(10), np.int8(8), np.int8(2), np.int8(5), np.int8(13)]
+Square: KNRSOYUZDATCELIHMBWXQFGPV
+Text: TURNTISCATACANDLSLCHARIUELLELICLESTIHCURDSHOROUDINOCEDATENATINDONREDALCERINHEADENTATCHTSTSTAALOTEDOORDSAIRNUESSUSLTHRICTHCCCCCSTRITHLSSANDAINDIONTOAUINTOANSCHICROICIDENTHERUNDTHUSEHABDPWSLIMYEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4182661 | Score: -960.42 | Time: 21984s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(12), np.int8(4), np.int8(7), np.int8(11), np.int8(1), np.int8(6), np.int8(9), np.int8(5), np.int8(3), np.int8(10), np.int8(8), np.int8(2), np.int8(0), np.int8(13)]
+Square: KNRSOYUZDATCELIHMBWXQFGPV
+Text: TURNTISCATACANDLSLCHARIUELLELICLESTIHCURDSHOROUDINOCEDATENATINDONREDALCERINHEADENTATCHTSTSTAALOTEDTHERUNDTHUSEHASLTHRICTHCCCCCSTRITHLSSANDAINDIONTOAUINTOANSCHICROICIDENOORDSAIRNUESSUBDPWSLIMYEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4182662 | Score: -959.37 | Time: 21984s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(12), np.int8(3), np.int8(7), np.int8(11), np.int8(1), np.int8(6), np.int8(9), np.int8(5), np.int8(4), np.int8(10), np.int8(8), np.int8(2), np.int8(0), np.int8(13)]
+Square: KNRSOYUZDATCELIHMBWXQFGPV
+Text: TURNTISCATACANSLTHRICTHCCCCCLICLESTIHCURDSHOROUDINOCEDATENATINDONREDALCERINHEADENTATCHTSTSTAALOTEDTHERUNDTHUSEHADLSLCHARIUELLESTRITHLSSANDAINDIONTOAUINTOANSCHICROICIDENOORDSAIRNUESSUBDPWSLIMYEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4182855 | Score: -955.78 | Time: 21985s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(12), np.int8(5), np.int8(7), np.int8(11), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(4), np.int8(8), np.int8(10), np.int8(2), np.int8(6), np.int8(13)]
+Square: YNRSOGUZDATCELIHMBWXFQKPV
+Text: TURNTISACTACANTHERUNDHTUSEHALICLESTHICURDSHOROUDIONCEDATENATINDNOREDALSLTHRICHTCCCCCOORDSAINRUESSUCHTSTSTAALOTEDDLSLCHAIRUELLENDIONTOUAINTOASTRITHLSSANDAINSCHICRIOCIDENCERINHEDAENTATBDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4182882 | Score: -955.46 | Time: 21985s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(12), np.int8(5), np.int8(3), np.int8(11), np.int8(1), np.int8(7), np.int8(0), np.int8(9), np.int8(4), np.int8(8), np.int8(10), np.int8(2), np.int8(6), np.int8(13)]
+Square: XNRSOGUYDATCELIHMBWZFQKPV
+Text: TURNTISACTACANTHERUNDHTUSEHASLTHRICHTCCCCCHOROUDIONCEDATENATINDNOREDALLICLESTHICURDSOORDSAINRUESSUCHTSTSTAALOTEDDLSLCHAIRUELLENDIONTOUAINTOASTRITHLSSANDAINSCHICRIOCIDENCERINHEDAENTATBDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183082 | Score: -955.43 | Time: 21985s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(8), np.int8(2), np.int8(11), np.int8(1), np.int8(7), np.int8(0), np.int8(9), np.int8(10), np.int8(3), np.int8(12), np.int8(6), np.int8(5), np.int8(13)]
+Square: XNRSOGUYDATCELIHMBWZKQFPV
+Text: DLSLCHAIRUELLENDIONTOUAINTOANSCHICRIOCIDENHOROUDIONCEDATENATINDNOREDALLICLESTHICURDSOORDSAINRUESSUCHTSTSTAALOTEDSTRITHLSSANDAISLTHRICHTCCCCCTURNTISACTACANCERINHEDAENTATTHERUNDHTUSEHABDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183113 | Score: -954.04 | Time: 21985s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(8), np.int8(2), np.int8(6), np.int8(1), np.int8(7), np.int8(0), np.int8(9), np.int8(10), np.int8(3), np.int8(12), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOGUYDATCELIHMBWZKQFPV
+Text: DLSLCHAIRUELLENDIONTOUAINTOANSCHICRIOCIDENCERINHEDAENTATENATINDNOREDALLICLESTHICURDSOORDSAINRUESSUCHTSTSTAALOTEDSTRITHLSSANDAISLTHRICHTCCCCCTURNTISACTACANHOROUDIONCEDATTHERUNDHTUSEHABDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183115 | Score: -952.70 | Time: 21985s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(8), np.int8(3), np.int8(6), np.int8(1), np.int8(7), np.int8(0), np.int8(9), np.int8(10), np.int8(2), np.int8(12), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOGUYDATCELIHMBWZKQFPV
+Text: DLSLCHAIRUELLENDIONTOUAINTOASLTHRICHTCCCCCCERINHEDAENTATENATINDNOREDALLICLESTHICURDSOORDSAINRUESSUCHTSTSTAALOTEDSTRITHLSSANDAINSCHICRIOCIDENTURNTISACTACANHOROUDIONCEDATTHERUNDHTUSEHABDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183129 | Score: -951.73 | Time: 21985s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(8), np.int8(7), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(10), np.int8(2), np.int8(12), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOGUZDATCELIHMBWYKQFPV
+Text: DLSLCHAIRUELLENDIONTOUAINTOALICLESTHICURDSCERINHEDAENTATENATINDNOREDALSLTHRICHTCCCCCOORDSAINRUESSUCHTSTSTAALOTEDSTRITHLSSANDAINSCHICRIOCIDENTURNTISACTACANHOROUDIONCEDATTHERUNDHTUSEHABDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183207 | Score: -950.88 | Time: 21986s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(8), np.int8(3), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(8), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(10), np.int8(2), np.int8(7), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOGUZDATCELIHMBWYKQFPV
+Text: DLSLCHAIRUELLENDIONTOUAINTOATURNTISACTACANCERINHEDAENTATENATINDNOREDALSLTHRICHTCCCCCOORDSAINRUESSUCHTSTSTAALOTEDSTRITHLSSANDAINSCHICRIOCIDENLICLESTHICURDSHOROUDIONCEDATTHERUNDHTUSEHABDPWSLIGMEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183231 | Score: -858.37 | Time: 21986s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(10), np.int8(8), np.int8(7), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOGUZDATCELIHMBWYKQFPV
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDSTRITHLSSANDAINDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATTHERUNDTHUSEHABDPWSLIMGEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183361 | Score: -858.17 | Time: 21986s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(10), np.int8(8), np.int8(7), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOWUZDATCELIHMBGYKFQPV
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDSTRITHLSSANDAINDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATTHERUNDTHUSEHABDPGSLIMWEMNBM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183458 | Score: -857.64 | Time: 21986s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(10), np.int8(8), np.int8(7), np.int8(11), np.int8(5), np.int8(13)]
+Square: XNRSOWUZDATCELIHMGBYKFQPV
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDSTRITHLSSANDAINDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATTHERUNDTHUSEHAGDPBSLIMWEMNGM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4183654 | Score: -854.97 | Time: 21987s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(11), np.int8(10), np.int8(13)]
+Square: QNRSOWUZDATCELIHGMBYKFXPV
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATSTRITHLSSANDAIMDPBSLIGWEGNMG
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4184144 | Score: -854.67 | Time: 21990s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(11), np.int8(10), np.int8(13)]
+Square: VNRSOWUXDATCELIHBGMQPZYFK
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATSTRITHLSSANDAIGDFMSLIBWEBNGB
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4185025 | Score: -854.05 | Time: 22002s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(10), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(11), np.int8(1), np.int8(13)]
+Square: VNRSOWUZDATCELIHBFMKPQYGX
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATSTRITHLSSANDAISLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATENATINDONREDALFDGMSLIBWEBNFB
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4185330 | Score: -853.83 | Time: 22004s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(11), np.int8(10), np.int8(13)]
+Square: VNRSOWUZDATCELIHBFPKGQXMY
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATSTRITHLSSANDAIFDMPSLIBWEBNFB
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4185422 | Score: -852.64 | Time: 22004s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(10), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(11), np.int8(1), np.int8(13)]
+Square: VNRSOWUZDATCELIHFBMKGQXPY
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATSTRITHLSSANDAISLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATENATINDONREDALBDPMSLIFWEFNBF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4185521 | Score: -852.56 | Time: 22005s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(11), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(1), np.int8(10), np.int8(13)]
+Square: VNRSOWUYDATCELIHFBMKGQXPZ
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATHOROUDINOCEDATSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSENATINDONREDALSTRITHLSSANDAIBDPMSLIFWEFNBF
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4185725 | Score: -851.52 | Time: 22005s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(11), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(1), np.int8(10), np.int8(13)]
+Square: VNRSOWUXDATCELIHKBMFGQZPY
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATHOROUDINOCEDATSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSENATINDONREDALSTRITHLSSANDAIBDPMSLIKWEKNBK
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4186157 | Score: -849.38 | Time: 22007s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(11), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(1), np.int8(10), np.int8(13)]
+Square: YNRSOWUQDATCELIHKGMFBXZPV
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATHOROUDINOCEDATSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSENATINDONREDALSTRITHLSSANDAIGDPMSLIKWEKNGK
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4186728 | Score: -849.03 | Time: 22009s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(10), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(11), np.int8(1), np.int8(13)]
+Square: YNRSOWUQDATCELIHKGMFZBVPX
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATSTRITHLSSANDAISLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSHOROUDINOCEDATENATINDONREDALGDPMSLIKWEKNGK
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4189791 | Score: -847.35 | Time: 22038s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(11), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(10), np.int8(7), np.int8(1), np.int8(13)]
+Square: FNRSOWUXDATCELIHKGMYZBVPQ
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATHOROUDINOCEDATSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOASTRITHLSSANDAILICLESTIHCURDSENATINDONREDALGDPMSLIKWEKNGK
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4203892 | Score: -845.69 | Time: 22113s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(4), np.int8(2), np.int8(12), np.int8(6), np.int8(1), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(10), np.int8(7), np.int8(11), np.int8(13)]
+Square: WNRSOPUFDATCELIHMGYXKZVBQ
+Text: DLSLCHARIUELLENSCHICROICIDENTURNTISCATACANCERINHEADENTATENATINDONREDALSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOASTRITHLSSANDAILICLESTIHCURDSHOROUDINOCEDATGDBYSLIMPEMNGM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4205296 | Score: -844.79 | Time: 22132s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(13), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(6), np.int8(11), np.int8(1), np.int8(7)]
+Square: KNRSOFUXDATCELIHMGYVPWQBZ
+Text: STRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLEGDBYSLIMFEMNGMSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOACERINHEADENTATHOROUDINOCEDATENATINDONREDALLICLESTIHCURDS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4206607 | Score: -843.73 | Time: 22150s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(7), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(6), np.int8(11), np.int8(1), np.int8(13)]
+Square: GNRSOPUKDATCELIHMWYZFVXBQ
+Text: STRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLELICLESTIHCURDSSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOACERINHEADENTATHOROUDINOCEDATENATINDONREDALWDBYSLIMPEMNWM
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4207121 | Score: -842.23 | Time: 22153s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(13), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(6), np.int8(11), np.int8(1), np.int8(7)]
+Square: VNRSOPUKDATCELIHMGYZFQXBW
+Text: STRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLEGDBYSLIMPEMNGMSLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOACERINHEADENTATHOROUDINOCEDATENATINDONREDALLICLESTIHCURDS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4215244 | Score: -839.34 | Time: 22178s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(7), np.int8(12), np.int8(4), np.int8(10), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(2), np.int8(6), np.int8(11), np.int8(1)]
+Square: FNRSOMUQDATCELIHPGYVXKWBZ
+Text: GDBYSLIPMEPNGPLICLESTIHCURDSTURNTISCATACANDLSLCHARIUELLESTRITHLSSANDAISLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOANSCHICROICIDENCERINHEADENTATHOROUDINOCEDATENATINDONREDAL
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4574898 | Score: -839.30 | Time: 23928s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(6), np.int8(11), np.int8(1), np.int8(7)]
+Square: VNRSOWUXDATCELIHMGYKZQFBP
+Text: GDBYSLIMWEMNGMSTRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOACERINHEADENTATHOROUDINOCEDATENATINDONREDALLICLESTIHCURDS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4575443 | Score: -838.36 | Time: 23930s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(7), np.int8(6), np.int8(11), np.int8(1)]
+Square: FNRSOPUKDATCELIHMGYQZXWBV
+Text: GDBYSLIMPEMNGMSTRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOALICLESTIHCURDSCERINHEADENTATHOROUDINOCEDATENATINDONREDAL
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4577124 | Score: -838.23 | Time: 23936s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(6), np.int8(1), np.int8(7), np.int8(11)]
+Square: FNRSOPUQDATCELIHMGYZWKXBV
+Text: GDBYSLIMPEMNGMSTRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOACERINHEADENTATENATINDONREDALLICLESTIHCURDSHOROUDINOCEDAT
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4582744 | Score: -836.62 | Time: 23954s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(10), np.int8(2), np.int8(12), np.int8(4), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(6), np.int8(11), np.int8(1), np.int8(7)]
+Square: QNRSOPUWDATCELIHMGYKXFVBZ
+Text: GDBYSLIMPEMNGMSTRITHLSSANDAINSCHICROICIDENTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOACERINHEADENTATHOROUDINOCEDATENATINDONREDALLICLESTIHCURDS
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 4680956 | Score: -836.06 | Time: 24694s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(1), np.int8(7), np.int8(12), np.int8(4), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(2), np.int8(6), np.int8(11), np.int8(10)]
+Square: FNRSOPUKDATCELIHMGYZWVXBQ
+Text: GDBYSLIMPEMNGMENATINDONREDALLICLESTIHCURDSTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOANSCHICROICIDENCERINHEADENTATHOROUDINOCEDATSTRITHLSSANDAI
+--------------------------------------------------------------------------------
+
+[PT Worker 0] Cycle 6046731 | Score: -834.53 | Time: 32063s
+Row: [np.int8(9), np.int8(10), np.int8(6), np.int8(7), np.int8(5), np.int8(0), np.int8(4), np.int8(3), np.int8(8), np.int8(12), np.int8(11), np.int8(1), np.int8(2), np.int8(13)]
+Col: [np.int8(13), np.int8(1), np.int8(7), np.int8(12), np.int8(4), np.int8(3), np.int8(0), np.int8(9), np.int8(5), np.int8(8), np.int8(10), np.int8(2), np.int8(6), np.int8(11)]
+Square: FNRSOPUKDATCELIHMGYQZWXBV
+Text: GDBYSLIMPEMNGMENATINDONREDALLICLESTIHCURDSTURNTISCATACANDLSLCHARIUELLESLTHRICTHCCCCCOORDSAIRNUESSUCHTSTSTAALOTEDTHERUNDTHUSEHANDIONTOAUINTOASTRITHLSSANDAINSCHICROICIDENCERINHEADENTATHOROUDINOCEDAT
+--------------------------------------------------------------------------------
