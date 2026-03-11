@@ -83,3 +83,7 @@ Bearing: 020 Degrees from Central London
 Context: Historical Coastal Defense Batteries / Signal Stations
 4. Methodology Summary
 The decryption was processed using 8-core parallelization. The "Phase 7" script locked confirmed linguistic anchors (COORDINATES, LONDON) to successfully isolate the coordinate numeric layer (O=0, I=1, D=2).
+
+
+
+https://editor.p5js.org/codeboxqc/sketches/EoLfgATfA
